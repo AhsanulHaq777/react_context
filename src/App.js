@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Today is CONTEXT-API class 5th of react bootcamp 2020.
+          Today is CONTEXT-API class of react bootcamp 2020.
         </p>
         <a
           className="App-link"
